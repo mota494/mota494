@@ -3,7 +3,7 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 
 # Software wich i've used
 <div align=center>
-	<img src="https://i.imgur.com/pIhTCdz.png" href="https://duckduckgo.com/?q=unity+logo&t=newext&atb=v367-1&iar=images&iax=images&ia=images&iai=https%3A%2F%2Ftorrentfreak.com%2Fimages%2Funity-logo.jpg" height="60px" width="60px" alt="Adobe Photoshop">
+	[<img src="https://i.imgur.com/pIhTCdz.png" height="60px" width="60px" alt="Adobe Photoshop">](https://duckduckgo.com/?q=unity+logo&t=newext&atb=v367-1&iar=images&iax=images&ia=images&iai=https%3A%2F%2Ftorrentfreak.com%2Fimages%2Funity-logo.jpg)
 	<img src="https://i.imgur.com/xnwYLGb.png" height="60px" width="60px" alt="Adobe Premier">
 	<img src="https://i.imgur.com/XfszNHI.png" height="60px" widht="60px" alt="VS Code">
 	<img src="https://i.imgur.com/47xqH7G.png" height="60px" width="60px" alt="Adobre Illustrator">
