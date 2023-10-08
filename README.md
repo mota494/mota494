@@ -13,6 +13,7 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 	<img src="https://i.imgur.com/ZH5f340.png" height="60px" widht="60px" alt="Bizagi Modeler">
 	<img src="https://i.imgur.com/NnAsmRZ.png" height="60px" widht="60px" alt="Sony Vegas">
 	<img src="https://i.imgur.com/1cfwQXT.png" height="60px" widht="60px" alt="NetBeans">
+	<img src="https://i.imgur.com/nmPbqtO.png" height="60px" width="60px" alt="MySql">
 </div>
 
 <h1>Languages which I've used</h1>
@@ -20,6 +21,7 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 	<img src="https://i.imgur.com/7hV9Srr.png" height="60px" widht="60px" alt="HTML">
 	<img src="https://i.imgur.com/iqOao8J.png" height="60px" widht="60px" alt="CSS">
 	<img src="https://i.imgur.com/aB5DEmF.png" height="60px" widht="60px" alt="JavaScript">
+	<img src="https://i.imgur.com/0h2aN29.png" height="60px" widht="60px" alt="PHP">
 	<img src="https://i.imgur.com/czkOAdp.png" height="60px" widht="60px" alt="C Programming Language">
 	<img src="https://i.imgur.com/cmz7I4b.png" height="60px" widht="60px" alt="C#">
 	<img src="https://i.imgur.com/S73AzGX.png" height="60px" widht="60px" alt="Visual Basic">
