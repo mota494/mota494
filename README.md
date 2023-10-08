@@ -13,7 +13,7 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 	<img src="https://i.imgur.com/ZH5f340.png" height="60px" widht="60px" alt="Bizagi Modeler">
 	<img src="https://i.imgur.com/NnAsmRZ.png" height="60px" widht="60px" alt="Sony Vegas">
 	<img src="https://i.imgur.com/1cfwQXT.png" height="60px" widht="60px" alt="NetBeans">
-	<img src="https://i.imgur.com/nmPbqtO.png" height="60px" width="60px" alt="MySql">
+	<img src="https://i.imgur.com/L33kABd.png" height="60px" width="60px" alt="MySql">
 </div>
 
 <h1>Languages which I've used</h1>
