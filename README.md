@@ -28,4 +28,4 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 </div>
 
 <h1>42 Stats</h1>
-[![<mloureir>'s 42 stats](https://badge.mediaplus.ma/<black>/<mloureir>)](https://github.com/oakoudad/badge42)
+[![mloureir's 42 stats](https://badge.mediaplus.ma/black/mloureir?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
