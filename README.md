@@ -1,6 +1,5 @@
 <h1>About me</h1>
-I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and started caring about tech in general when i was 13 thanks to a cousin that showed me a crazy modded Gameboy Advanced and also that same cousin teaching me how to build a computer. At 16 i went to <b>[Colégio de Gaia](https://www.colgaia.pt/)</b> a school that offers 13 different cursus and the one i picked was <b>TSI</b> or <b>Technologies and Information Systems</b> wich is a computer science course that is focused more on the management side of it. After this i went to <b>[ESTG](https://www.estg.ipp.pt/)</b> a university that belongs to <b>[IPP](https://www.ipp.pt/)</b> where i studied <b>cyberscurity</b> for 2 years but unfortunately i didn't really enjoy it so i ended up in the <b>#6 Piscine</b> of <b>[42 Porto](https://42porto.com/)</b> and after 26 days and a few weeks i received the amazing news that i was accepted into 42 Porto.
-Initial commit
+I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and started caring about tech in general when i was 13 thanks to a cousin that showed me a crazy modded Gameboy Advanced and also that same cousin teaching me how to build a computer. At 16 i went to <b><a href="https://www.colgaia.pt/">Colegio de Gaia</a></b> a school that offers 13 different cursus and the one i picked was <b>TSI</b> or <b>Technologies and Information Systems</b> wich is a computer science course that is focused more on the management side of it. After this i went to <b><a href="https://www.estg.ipp.pt/">ESTG</a></b> a university that belongs to <b><a href="https://www.ipp.pt/">IPP</a></b> where i studied <b>cyberscurity</b> for 2 years but unfortunately i didn't really enjoy it so i ended up in the <b>#6 Piscine</b> of <b><a href="https://42porto.com/">42 Porto</a></b> and after 26 days and a few weeks i received the news that i was accepted into 42 Porto.
 
 <h1>Software which I've used</h1>
 <div align=center>
@@ -27,4 +26,3 @@ Initial commit
 	<img src="https://i.imgur.com/cmz7I4b.png" height="60px" widht="60px" alt="C#">
 	<img src="https://i.imgur.com/S73AzGX.png" height="60px" widht="60px" alt="Visual Basic">
 </div>
-
