@@ -3,17 +3,17 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 
 <h1>Software which I've used</h1>
 <div align=center>
-	<img src="https://i.imgur.com/pIhTCdz.png" height="60px" width="60px" alt="Adobe Photoshop">
-	<img src="https://i.imgur.com/xnwYLGb.png" height="60px" width="60px" alt="Adobe Premier">
-	<img src="https://i.imgur.com/XfszNHI.png" height="60px" widht="60px" alt="VS Code">
-	<img src="https://i.imgur.com/47xqH7G.png" height="60px" width="60px" alt="Adobre Illustrator">
-	<img src="https://i.imgur.com/5EzKSc9.png" height="60px" widht="60px" alt="Unity">
-	<img src="https://i.imgur.com/ZcMgjXx.png" height="60px" width="60px" alt="Microsfot Access">
-	<img src="https://i.imgur.com/L1Ctah8.png" height="60px" widht="60px" alt="Android Studio">
-	<img src="https://i.imgur.com/ZH5f340.png" height="60px" widht="60px" alt="Bizagi Modeler">
-	<img src="https://i.imgur.com/NnAsmRZ.png" height="60px" widht="60px" alt="Sony Vegas">
-	<img src="https://i.imgur.com/1cfwQXT.png" height="60px" widht="60px" alt="NetBeans">
-	<img src="https://i.imgur.com/L33kABd.png" height="60px" width="60px" alt="MySql">
+	<a href="https://www.adobe.com/pt/products/photoshop.html"><img src="https://i.imgur.com/pIhTCdz.png" height="60px" width="60px" alt="Adobe Photoshop"></a>
+	<a href="https://www.adobe.com/pt/products/premiere.html"><img src="https://i.imgur.com/xnwYLGb.png" height="60px" width="60px" alt="Adobe Premier"></a>
+	<a href="https://code.visualstudio.com/"><img src="https://i.imgur.com/XfszNHI.png" height="60px" widht="60px" alt="VS Code"></a>
+	<a href="https://www.adobe.com/pt/products/illustrator.html"><img src="https://i.imgur.com/47xqH7G.png" height="60px" width="60px" alt="Adobre Illustrator"></a>
+	<a href="https://unity.com/"><img src="https://i.imgur.com/5EzKSc9.png" height="60px" widht="60px" alt="Unity"></a>
+	<a href="https://www.microsoft.com/pt-pt/microsoft-365/access"><img src="https://i.imgur.com/ZcMgjXx.png" height="60px" width="60px" alt="Microsfot Access"></a>
+	<a href="https://developer.android.com/studio"><img src="https://i.imgur.com/L1Ctah8.png" height="60px" widht="60px" alt="Android Studio"></a>
+	<a href="https://www.bizagi.com/pt/plataforma/modeler"><img src="https://i.imgur.com/ZH5f340.png" height="60px" widht="60px" alt="Bizagi Modeler"></a>
+	<a href="https://www.vegascreativesoftware.com/pt/"><img src="https://i.imgur.com/NnAsmRZ.png" height="60px" widht="60px" alt="Sony Vegas"></a>
+	<a href="https://netbeans.apache.org/"><img src="https://i.imgur.com/1cfwQXT.png" height="60px" widht="60px" alt="NetBeans"></a>
+	<a href="https://www.mysql.com/"><img src="https://i.imgur.com/L33kABd.png" height="60px" width="60px" alt="MySql"></a>
 </div>
 
 <h1>Languages which I've used</h1>
