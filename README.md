@@ -3,26 +3,25 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 
 <h1>Software which I've used</h1>
 <div align=center>
-	<a href="https://www.adobe.com/pt/products/photoshop.html"><img src="https://i.imgur.com/pIhTCdz.png" height="60px" width="60px" alt="Adobe Photoshop"></a>
-	<a href="https://www.adobe.com/pt/products/premiere.html"><img src="https://i.imgur.com/xnwYLGb.png" height="60px" width="60px" alt="Adobe Premier"></a>
-	<a href="https://code.visualstudio.com/"><img src="https://i.imgur.com/XfszNHI.png" height="60px" widht="60px" alt="VS Code"></a>
+	<a href="https://www.adobe.com/pt/products/photoshop.html"><img src="https://i.imgur.com/E6exww4.png" height="70px" width="70px" alt="Adobe Photoshop"></a>
+	<a href="https://www.adobe.com/pt/products/premiere.html"><img src="https://i.imgur.com/7IzFfNZ.png" height="70px" width="70px" alt="Adobe Premier"></a>
 	<a href="https://www.adobe.com/pt/products/illustrator.html"><img src="https://i.imgur.com/QGU1AQg.png" height="70px" width="70px" alt="Adobre Illustrator"></a>
-	<a href="https://unity.com/"><img src="https://i.imgur.com/5EzKSc9.png" height="60px" widht="60px" alt="Unity"></a>
-	<a href="https://www.microsoft.com/pt-pt/microsoft-365/access"><img src="https://i.imgur.com/ZcMgjXx.png" height="60px" width="60px" alt="Microsfot Access"></a>
-	<a href="https://developer.android.com/studio"><img src="https://i.imgur.com/L1Ctah8.png" height="60px" widht="60px" alt="Android Studio"></a>
-	<a href="https://www.bizagi.com/pt/plataforma/modeler"><img src="https://i.imgur.com/ZH5f340.png" height="60px" widht="60px" alt="Bizagi Modeler"></a>
-	<a href="https://www.vegascreativesoftware.com/pt/"><img src="https://i.imgur.com/NnAsmRZ.png" height="60px" widht="60px" alt="Sony Vegas"></a>
-	<a href="https://netbeans.apache.org/"><img src="https://i.imgur.com/1cfwQXT.png" height="60px" widht="60px" alt="NetBeans"></a>
-	<a href="https://www.mysql.com/"><img src="https://i.imgur.com/L33kABd.png" height="60px" width="60px" alt="MySql"></a>
+	<a href="https://www.vegascreativesoftware.com/pt/"><img src="https://i.imgur.com/XichCbP.png" height="70px" widht="70px" alt="Sony Vegas"></a>
+	<a href="https://code.visualstudio.com/"><img src="https://i.imgur.com/yY111FZ.png" height="70px" widht="70px" alt="VS Code"></a>
+	<a href="https://unity.com/"><img src="https://i.imgur.com/ZWwWOY6.png" height="70px" widht="70px" alt="Unity"></a>
+	<a href="https://www.microsoft.com/pt-pt/microsoft-365/access"><img src="https://i.imgur.com/j8Cp7XA.png" height="70px" width="70px" alt="Microsfot Access"></a>
+	<a href="https://developer.android.com/studio"><img src="https://i.imgur.com/uTRUBA9.png" height="70px" widht="70px" alt="Android Studio"></a>
+	<a href="https://www.bizagi.com/pt/plataforma/modeler"><img src="https://i.imgur.com/xjgnUTX.png" height="70px" widht="70px" alt="Bizagi Modeler"></a>
+	<a href="https://netbeans.apache.org/"><img src="https://i.imgur.com/kTFUfwF.png" height="70px" widht="70px" alt="NetBeans"></a>
+	<a href="https://www.mysql.com/"><img src="https://i.imgur.com/W19NTz7.png" height="70px" width="70px" alt="MySql"></a>
+	<a hrer="https://www.jetbrains.com/clion/"><img src="https://i.imgur.com/FEabgH9.png" height="70px" width="70px" alt="JetBrains C-Lion"></a>
 </div>
 
 <h1>Languages which I've used</h1>
 <div align=center>
-	<img src="https://i.imgur.com/7hV9Srr.png" height="60px" widht="60px" alt="HTML">
-	<img src="https://i.imgur.com/iqOao8J.png" height="60px" widht="60px" alt="CSS">
-	<img src="https://i.imgur.com/aB5DEmF.png" height="60px" widht="60px" alt="JavaScript">
-	<img src="https://i.imgur.com/0h2aN29.png" height="60px" widht="60px" alt="PHP">
-	<img src="https://i.imgur.com/czkOAdp.png" height="60px" widht="60px" alt="C Programming Language">
-	<img src="https://i.imgur.com/cmz7I4b.png" height="60px" widht="60px" alt="C#">
-	<img src="https://i.imgur.com/S73AzGX.png" height="60px" widht="60px" alt="Visual Basic">
+	<img src="https://i.imgur.com/wgik4Wp.png" height="70px" widht="70px" alt="HTML">
+	<img src="https://i.imgur.com/IycOl6h.png" height="70px" widht="70px" alt="CSS">
+	<img src="https://i.imgur.com/eJU75IJ.png" height="70px" widht="70px" alt="JavaScript">
+	<img src="https://i.imgur.com/5zvrsTa.png" height="70px" widht="70px" alt="PHP">
+	<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://i.imgur.com/2tkmLF2.png" height="70px" widht="70px" alt="C Programming Language"></a>
 </div>
