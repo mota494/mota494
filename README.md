@@ -15,6 +15,7 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 	<a href="https://netbeans.apache.org/"><img src="https://i.imgur.com/kTFUfwF.png" height="70px" widht="70px" alt="NetBeans"></a>
 	<a href="https://www.mysql.com/"><img src="https://i.imgur.com/W19NTz7.png" height="70px" width="70px" alt="MySql"></a>
 	<a href="https://www.jetbrains.com/clion/"><img src="https://i.imgur.com/FEabgH9.png" height="70px" width="70px" alt="JetBrains C-Lion"></a>
+	<a href="https://www.mongodb.com/"><img src="https://i.imgur.com/TeIh4Rv.png" height="70px" width="70px" alt="Mongo DB"></a>
 </div>
 
 <h1>Languages which I've used</h1>
@@ -25,4 +26,5 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 	<img src="https://i.imgur.com/5zvrsTa.png" height="70px" widht="70px" alt="PHP">
 	<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://i.imgur.com/2tkmLF2.png" height="70px" widht="70px" alt="C Programming Language"></a>
 	<img src="https://i.imgur.com/t7Bm9Ln.png" width="70px" alt ="C#">
+	<img src="https://i.imgur.com/V8YzLDo.png" width="70px" alt ="Markdown Text">
 </div>
