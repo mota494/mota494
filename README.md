@@ -26,5 +26,5 @@ I'm currently 19 years old, i was born and raised in São Cosme, Gondomar, and s
 	<img src="https://i.imgur.com/5zvrsTa.png" height="70px" widht="70px" alt="PHP">
 	<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://i.imgur.com/2tkmLF2.png" height="70px" widht="70px" alt="C Programming Language"></a>
 	<img src="https://i.imgur.com/t7Bm9Ln.png" width="70px" alt ="C#">
-	<img src="https://i.imgur.com/aPF1PkK.png" width="70px" alt ="Markdown Text">
+	<img src="https://i.imgur.com/V8YzLDo.png" width="70px" alt ="Markdown Text">
 </div>
