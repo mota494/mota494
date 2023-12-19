@@ -28,3 +28,5 @@ I'm currently 20 years old, i was born and raised in São Cosme, Gondomar, and s
 	<img src="https://i.imgur.com/t7Bm9Ln.png" width="70px" alt ="C#">
 	<img src="https://i.imgur.com/V8YzLDo.png" width="70px" alt ="Markdown Text">
 </div>
+
+<!--![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=mota494&theme=dark)-->
