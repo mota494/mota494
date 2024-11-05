@@ -32,3 +32,4 @@ I'm currently 20 years old, i was born and raised in São Cosme, Gondomar, and s
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=mota494&show_icons=true&theme=radical)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mota494)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--<img src="https://profile-counter.glitch.me/paulorsfaria/count.svg" />-->
